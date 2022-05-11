@@ -34,7 +34,6 @@ main {
 .card__img {
   display: block;
   width: 100%;
-  min-height: 29rem;
   border-radius: 1.5rem;
 }
 .card__info {
